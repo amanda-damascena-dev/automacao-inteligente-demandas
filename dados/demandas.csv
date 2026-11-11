@@ -1,0 +1,6 @@
+﻿id,data,solicitante,titulo,descricao,categoria,prioridade,encaminhamento,confianca,revisao_humana,motivo_revisao,status
+1,2026-11-10 09:00:00,Marina Souza,Acesso ao sistema,Não consigo acessar o sistema e preciso concluir uma atividade hoje.,Tecnologia,Urgente,Suporte de Tecnologia,85,False,Não necessária,Triada
+2,2026-11-10 10:30:00,Carlos Lima,Segunda via de boleto,Solicito a segunda via do boleto com vencimento nesta semana.,Financeiro,Alta,Equipe Financeira,85,False,Não necessária,Triada
+3,2026-11-10 11:15:00,Ana Martins,Pedido incompleto,Preciso de ajuda.,Não classificada,Baixa,Triagem Administrativa,0,True,"descrição muito curta, baixa confiança na classificação",Aguardando revisão
+4,2026-11-10 23:26:29,Ananda,Estudos,estudar mais,Não classificada,Baixa,Triagem Administrativa,0,True,"descrição muito curta, baixa confiança na classificação",Aguardando revisão
+5,2026-11-10 23:30:04,Ananda,Estudos,estudar mais,Não classificada,Baixa,Triagem Administrativa,0,True,"descrição muito curta, baixa confiança na classificação",Aguardando revisão
